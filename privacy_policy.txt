@@ -1,0 +1,41 @@
+Politika privatnosti
+
+Općenito
+Ova aplikacija je besplatna i ne sadrži reklame.
+Podaci i slike prisutni unutar aplikacije u vlasništvu su Hrvatskog Planinarskog Saveza (www.hps.hr).
+
+Korištenje memorije uređaja
+Aplikacija koristi memoriju uređaja kako bi pohranila podatke za korištenje aplikacije u "offline" načinu rada i pohranu slika korištenih u aplikaciji.
+
+Pozadinsko prikupljanje podataka
+Aplikacija, u slučaju nenadanog prekida rada aplikacije, prikuplja podatke o stanju uređaja u trenutku prekida. Ti podaci se koriste kako bi se poboljšao rad aplikacije. Stvaranje izvještaja o grešci je anonimno i ne zahtijeva reakcije korisnika. Pri izradi izvještaja ne koriste se osobni niti osjetljivi podaci o korisniku nego se koristi "Android Advertising ID" koji koristi vanjski sustav za prijavu grešaka ugrađen u aplikaciju.
+
+Opcionalno
+Ukoliko korisnik poželi prijaviti grešku u aplikaciji ili u podacima koje aplikacija prikazuje, uz opis pogreške, korisnik može odlučiti dati svoje podatke kako bi ga se kasnije moglo kontaktirati radi potanjeg pojašnjenja ili potvrde izvora informacije.
+
+Kontakt
+Sva pitanja, prijedloge i primjedbe, molimo šaljite na email adresu: edelweiss.app@gmail.com
+
+Korištenjem ove aplikacije potvrđujete da ste pročitali Politiku privatnosti i pristajete na korištenje informacija kako je u njoj navedeno.
+
+**********
+
+Privacy policy
+
+General
+This app is free of charge and does not contain ads.
+Data and images found within this app are property of Croatian Mountaineering Alliance (Hrvatski Planinarski Savez www.hps.hr)
+
+Device storage usage
+The app uses storage on the device to store downloaded data and cache images that are shown within the app. No other personal user data is being transferred from the device in the background.
+
+Background data collection
+There is no personal data collection going on in the background. This app collects data about crashes and Application Not Responding errors and sends that data to a third party under an Android Advertising ID along with device related info at the time of the error such as: RAM usage, available space and battery status. It also connects to the Internet to download and update its content.
+
+Optional
+Users can choose to append their personal data when reporting errors or incomplete data to allow further investigation about their information sources.
+
+Contact
+Send all questions and suggestions to edelweiss.app@gmail.com.
+
+By using this app you confirm you have read and agree to everything mentioned in this Privacy policy.
